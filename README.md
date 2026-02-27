@@ -10,7 +10,7 @@
 ## 📫 联系方式
 - 📧 Email：`zhangsan@bit.edu.cn`
 - 🔗 GitHub：`github.com/zhangsan`
-- 📍 Location：北京（可写到区/县就够了）
+- 📍 Location：北京房山
 - 💬 WeChat / Phone：**（建议私聊提供）**
 
 ---
