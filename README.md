@@ -8,7 +8,7 @@
 ---
 
 ## 📫 联系方式
-- 📧 Email：`zhangsan@bit.edu.cn`
+- 📧 Email：`winsongwz@gmail.com`
 - 🔗 GitHub：`github.com/xnooneaskedx`
 - 📍 Location：北京房山
 - 💬 WeChat / Phone：**（建议私聊提供）**
@@ -33,10 +33,9 @@
 ---
 
 ## 🧰 技术能力
-**编程语言**：Java｜Python｜C/C++｜JavaScript  
-**后端**：Spring Boot｜MyBatis｜MySQL  
-**移动端**：Android｜Kotlin｜XML  
-**工具**：Git｜VS Code｜IntelliJ IDEA  
+**编程语言**：Java｜Python｜C/C++｜JavaScript｜Kotlin   
+**前端与可视化**：Vue｜JavaScript｜D3.js｜Vite  
+**开发工具**：Git｜VS Code｜IntelliJ IDEA｜Android Studio
 
 ---
 
